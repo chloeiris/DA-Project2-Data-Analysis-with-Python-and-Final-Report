@@ -1,32 +1,33 @@
-# DA-modulo-2-project-2-team-3
-¡Hola!
+# DA-Project2-Data-Analysis-with-Python-and-Final-Report
 
-Te damos la bienvenida al repositorio del equipo "Data Paired" del Bootcamp de Data Analytics de Adalab!
+Hello!
 
-En este repo encontrarás los resultados finales de nuestro segundo proyecto del bootcamp. 
-En él desarrollamos un análisis a nuestra elección en base a los datos que nos ha dado nuestro cliente, "Adalab".
+In this repo you will find all the docs for a Data Analysis Project done with Python. 
+Given our client's data, we were asked to extract an analysis of what we considered most interesting for the company.
+So, we focused on answering a business expansion question: Should Adalab (our client) launch a new Bootcamp on Machine Learning?
 
-Para ello los pasos que hemos seguido han sido:
-- Convertir todos los ficheros a csv
-- Unificarlos en un solo archivo por petición del cliente
-- Decidir qué preguntas le ibamos a hacer a los datos.
-- Finalmente, nuestro análisis se enfocó en esta pregunta: ¿Es viable para Adalab lanzar un Bootcamp o una formación en Machine Learning?
-- Seleccionar las variables de los datos que nos interesaban para responder a esa pregunta
-- Limpiar los datos para poder extraer conclusiones
-- Realizar las gráficas para explicar los análisis
-- Redactar un informe con nuestras conclusiones
+For this, the steps we followed were:
+1. Converting all files to csv and unifying them into a single and complete file. (Data size allowed this step)
+2. Deciding which were the in-detail questions we were going to answer with the data.
+3. Selecting the relevant variables and merging them into a new dataset.
+4. Cleaning the selected data to be able to draw conclusions.
+5. Making the graphs to explain the analysis.
+6. Writing a report with our conclusions.
 
-Para ello hemos usado las librerías:
-- pandas
-- numpy
-- sidetable
-- matplotlib.pyplot
-- seaborn
-- mysql.connector
-- requests
-- ast
+For this we used the following Python libraries:
+- Pandas
+- Numpy
+- Sidetable
+- Matplotlib.pyplot
+- Seaborn
+- Mysql.connector
+- Requests
+- Ast
 
-Ya que nos has conocido, te invitamos a visitar nuestros repos personales!
+The final result is a REPORT with all the graphs and conclusions on whether launching a new bootcamp is a good business next step for our client.
+If you want to see it, check out the folder: 
 
-¡Hasta pronto!
+Thanks for visiting!
+
+Done by me & the Data Paired Team - Adalab
 
